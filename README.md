@@ -8,3 +8,5 @@ Write anything here
 
 ## Level 2 again
 lalala
+
+\[]{images/bird.jpg}
